@@ -19,6 +19,3 @@ Analyze customer churn behavior to identify high-risk segments and estimate the 
 - Python (pandas, matplotlib)
 - SQL
 - Power BI
-
-## 📁 Project Structure
-See repository folders for notebooks, SQL scripts, and Power BI dashboard.
